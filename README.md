@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xuan Liu.
+- 👋 Hi, I’m Xuan.
 - 👀 I’m interested in Data Science and AI.
 - 🌱 I’m currently learning Machine Learning and Cloud Computing.
 - 📫 How to reach me xuan.liu01@gmail.com
