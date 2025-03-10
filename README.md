@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xuan Liu.
 - 👀 I’m interested in Data Science and AI.
-- 🌱 I’m currently learning machine learning and cloud computing.
+- 🌱 I’m currently learning Machine Learning and Cloud Computing.
 - 📫 How to reach me xuan.liu01@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to travel and immerse myself in the diverse cultures of the world.
